@@ -1,0 +1,28 @@
+body{
+    font-family:'Segoe UI';
+}
+table{
+    background-color:lightgreen;
+    border:solid;
+    border-collapse:collapse;
+}
+td{
+    border:solid;
+    border-collapse:collapse;
+    padding-left:40px;
+    padding-right:40px;
+}
+th{
+    background-color:darkgreen;
+    color:lightgreen;
+    border:solid;
+}
+.central{
+    background-color:rgb(82, 230, 149);
+}
+.blue{
+    background-color:lightskyblue;
+}
+.pink{
+    background-color:pink;
+}
